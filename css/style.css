@@ -46,3 +46,20 @@
     }
  
 }
+@media only screen and (min-width:577px) and (max-width:996){
+    .lc-card-title{
+        font-size: 20px !important;
+        width: 100% !important;
+    }
+    .lc-card-paragraph{
+        font-size:10px !important;
+        width: 100% !important;
+    }
+    .lc-card{
+ 
+        grid-template-columns: repeat(2,1fr);
+      
+    }
+
+ 
+}
